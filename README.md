@@ -3,7 +3,7 @@
 ## What is an Epitrochoid?
 Best is to take a look on the [Wikipedia](https://en.m.wikipedia.org/wiki/Epitrochoid)
 
-![Epitrochoid](https://en.m.wikipedia.org/wiki/Epitrochoid#/media/File%3AEpitrochoidIn3.gif)
+![Epitrochoid](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/EpitrochoidIn3.gif/400px-EpitrochoidIn3.gif)
 
 ## How to install the script
 The script is a Python script.
@@ -28,7 +28,7 @@ Once you installed the script you can start it inside the script manager.
 
 Change the values to create the shape you want.
 
-![Epitrochoid Creator](command_view.png)
+![Epitrochoid Creator](media/command_view.png)
 
 ######################################
 
